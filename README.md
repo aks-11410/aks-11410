@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aks-11410
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning Python3 and C++
 - 💞️ I’m looking to collaborate on IDK its my first time here
 - 📫 How to reach me instagram-https://www.instagram.com/aks___321/?hl=en
 
