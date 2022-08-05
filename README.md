@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aks-11410
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Python3 and C++
+- 🌱 I’m currently learning Angular12 and .net frameworks
 - 💞️ I’m looking to collaborate on IDK its my first time here
 - 📫 How to reach me linkden https://www.linkedin.com/in/akshat-bora-247b04229/
 
