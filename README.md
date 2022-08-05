@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Python3 and C++
 - 💞️ I’m looking to collaborate on IDK its my first time here
-- 📫 How to reach me instagram-https://www.instagram.com/aks___321/?hl=en
+- 📫 How to reach me linkden https://www.linkedin.com/in/akshat-bora-247b04229/
 
 <!---
 aks-11410/aks-11410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
